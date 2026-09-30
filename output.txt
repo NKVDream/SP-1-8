@@ -1,0 +1,34 @@
+Общее количество строк: 11
+
+Самая длинная строка:
+That you can't trust freedom when it's not in your hands
+
+Строки в алфавитном порядке:
+1. And in my first memories, they shot Kennedy
+2. I went numb when I learned to see
+3. Kapustin
+4. So I never fell for Vietnam
+5. That you can't trust freedom when it's not in your hands
+6. Vladislav
+7. We got the wall in D.C. to remind us all
+8. When everybody's fightin' for their promised land
+9. Who said, "Peace could last forever"?
+10. Yevgenyevich
+11. You wear a black armband when they shot the man
+
+Количество уникальных строк: 11
+Уникальные строки:
+1. And in my first memories, they shot Kennedy
+2. I went numb when I learned to see
+3. Kapustin
+4. So I never fell for Vietnam
+5. That you can't trust freedom when it's not in your hands
+6. Vladislav
+7. We got the wall in D.C. to remind us all
+8. When everybody's fightin' for their promised land
+9. Who said, "Peace could last forever"?
+10. Yevgenyevich
+11. You wear a black armband when they shot the man
+
+Общее количество символов: 361
+Общее количество слов: 69
